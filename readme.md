@@ -31,7 +31,7 @@ Before you begin, ensure you have the following prerequisites:
 ### Installation
 
 1. Clone the repository:
-   ```bash https://github.com/Vineeth-master/E-Learning-Website.git```
+   ``` https://github.com/Vineeth-master/E-Learning-Website.git```
 2. Open the project in your preferred text editor.
 3. Launch the `index.html` file in a web browser.
 
